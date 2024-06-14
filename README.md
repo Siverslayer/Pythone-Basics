@@ -99,3 +99,8 @@ Python IDE (بيئة التطوير المتكاملة) هو برنامج يجم
 [Eiadalsalem12](https://github.com/Eiadalsalem12)
 
 [Siverslayer](https://github.com/Siverslayer)
+
+
+## الترخيص
+
+هذا المشروع مرخص تحت شروط [MIT License](./LICENSE). **ملاحظة: يُحظر بيع الملفات التعليمية الموجودة في هذا المشروع.**
