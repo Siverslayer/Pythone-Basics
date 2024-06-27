@@ -1,0 +1,7 @@
+bill = int(input())
+
+bill = bill * 20/100
+
+print(float(bill))
+
+# برنامج لحساب الاكرامية :)
