@@ -1,6 +1,6 @@
-#مشروع لقياس الحرارة اذا  وصلت الحرارة 100 او فوق يعني بدء الغليان
-temp = input()
- if temp >= 100:
-print("Boiling")
+# مشروع لقياس الحرارة اذا  وصلت الحرارة 100 او فوق يعني بدء الغليان
+temp = int(input())
+if temp >= 100:
+    print("Boiling")
 else:
-print(" please wait the water is not Boiling")
+    print(" please wait the water is not Boiling")
